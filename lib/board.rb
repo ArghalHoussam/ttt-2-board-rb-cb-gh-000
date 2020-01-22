@@ -3,6 +3,6 @@ name = "Houssam"
 puts "salam #{name}"
 
 def saySalam
-  puts "salam"
+puts "salam"
 end
 saySalam
