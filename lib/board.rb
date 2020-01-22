@@ -5,3 +5,4 @@ puts "salam #{name}"
 def saySalam
   puts "salam"
 end
+saySalam
