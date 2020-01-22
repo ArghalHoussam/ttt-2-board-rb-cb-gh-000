@@ -1,2 +1,3 @@
 # Define the variable board below.
-puts "salam"
+name = "Houssam"
+puts "salam #{name}"
